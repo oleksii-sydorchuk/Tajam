@@ -1,0 +1,14 @@
+@font-face{
+    font-family: Roboto-Black;
+   src: url(../fonts/Roboto/Roboto-Black.ttf);
+}
+@font-face{
+    font-family: Playfair Display;
+   src: url(../fonts/Playfair_Display/PlayfairDisplay-Regular.ttf);
+}
+@font-face{
+    font-family: Roboto;
+   src: url(../fonts/Roboto/Roboto-Regular.ttf);}
+@font-face{
+    font-family: Hammersmith Oneo;
+   src: url(../fonts/Hammersmith_One/HammersmithOne-Regular.ttf);}
